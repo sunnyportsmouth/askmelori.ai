@@ -2,6 +2,8 @@
 
 A static landing page for [askmelori.ai](https://askmelori.ai), owned by [Kribu](https://kribu.io/).
 
+Includes a minimalist launch page, privacy policy, terms of service, SEO metadata, structured data, and sitemap entries.
+
 ## Local preview
 
 ```sh

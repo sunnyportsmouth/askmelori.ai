@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Ask Melori</title>
+  <desc id="desc">Ask Melori brand card</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#eef9ff" />
+    </linearGradient>
+    <linearGradient id="mark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7fd7ff" />
+      <stop offset="100%" stop-color="#43b4f5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1030" cy="118" r="170" fill="#d8f0ff" opacity="0.9" />
+  <circle cx="148" cy="528" r="150" fill="#a8e0ff" opacity="0.5" />
+  <rect x="120" y="136" width="148" height="148" rx="42" fill="url(#mark)" />
+  <text x="194" y="232" text-anchor="middle" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700" fill="#f9fdff">M</text>
+  <text x="320" y="208" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" fill="#102235">Ask Melori</text>
+  <text x="320" y="286" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="34" fill="#4f667d">A calmer way to stay on top of life.</text>
+</svg>

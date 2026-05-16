@@ -29,25 +29,26 @@
   <text x="304" y="1166" fill="#FFFFFF" font-size="30" font-family="Avenir Next, Arial, sans-serif">and remind me if I do not</text>
   <text x="304" y="1208" fill="#FFFFFF" font-size="30" font-family="Avenir Next, Arial, sans-serif">send it today?</text>
 
-  <rect x="465" y="1276" width="560" height="320" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(0,229,255,0.12)"/>
+  <rect x="465" y="1276" width="560" height="350" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(0,229,255,0.12)"/>
   <text x="505" y="1358" fill="#00E5FF" font-size="24" font-family="Avenir Next, Arial, sans-serif" font-weight="700">MELORI</text>
   <text x="505" y="1426" fill="#FFFFFF" font-size="34" font-family="Avenir Next, Arial, sans-serif" font-weight="700">I can help with both.</text>
-  <text x="505" y="1482" fill="#8899AA" font-size="27" font-family="Avenir Next, Arial, sans-serif">Would you like the tone to stay warm and brief,</text>
-  <text x="505" y="1520" fill="#8899AA" font-size="27" font-family="Avenir Next, Arial, sans-serif">or a bit more formal?</text>
-  <rect x="505" y="1552" width="128" height="46" rx="18" fill="rgba(0,229,255,0.14)"/>
-  <text x="546" y="1582" fill="#00E5FF" font-size="22" font-family="Avenir Next, Arial, sans-serif" font-weight="700">Draft</text>
-  <rect x="650" y="1552" width="160" height="46" rx="18" fill="rgba(255,255,255,0.04)"/>
-  <text x="691" y="1582" fill="#FFFFFF" font-size="22" font-family="Avenir Next, Arial, sans-serif" font-weight="700">Reminder</text>
+  <text x="505" y="1482" fill="#8899AA" font-size="25" font-family="Avenir Next, Arial, sans-serif">Would you like the tone to stay</text>
+  <text x="505" y="1518" fill="#8899AA" font-size="25" font-family="Avenir Next, Arial, sans-serif">warm and brief, or a bit more</text>
+  <text x="505" y="1554" fill="#8899AA" font-size="25" font-family="Avenir Next, Arial, sans-serif">formal?</text>
+  <rect x="505" y="1584" width="128" height="46" rx="18" fill="rgba(0,229,255,0.14)"/>
+  <text x="546" y="1614" fill="#00E5FF" font-size="22" font-family="Avenir Next, Arial, sans-serif" font-weight="700">Draft</text>
+  <rect x="650" y="1584" width="160" height="46" rx="18" fill="rgba(255,255,255,0.04)"/>
+  <text x="691" y="1614" fill="#FFFFFF" font-size="22" font-family="Avenir Next, Arial, sans-serif" font-weight="700">Reminder</text>
 
-  <rect x="270" y="1650" width="755" height="246" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(0,229,255,0.12)"/>
-  <text x="310" y="1722" fill="#00E5FF" font-size="24" font-family="Avenir Next, Arial, sans-serif" font-weight="700">DRAFT PREVIEW</text>
-  <text x="310" y="1790" fill="#FFFFFF" font-size="29" font-family="Avenir Next, Arial, sans-serif">Hi, thanks for sending this over.</text>
-  <text x="310" y="1832" fill="#FFFFFF" font-size="29" font-family="Avenir Next, Arial, sans-serif">Monday morning works well on my side...</text>
+  <rect x="270" y="1690" width="755" height="246" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(0,229,255,0.12)"/>
+  <text x="310" y="1762" fill="#00E5FF" font-size="24" font-family="Avenir Next, Arial, sans-serif" font-weight="700">DRAFT PREVIEW</text>
+  <text x="310" y="1830" fill="#FFFFFF" font-size="29" font-family="Avenir Next, Arial, sans-serif">Hi, thanks for sending this over.</text>
+  <text x="310" y="1872" fill="#FFFFFF" font-size="29" font-family="Avenir Next, Arial, sans-serif">Monday morning works well on my side...</text>
 
-  <rect x="270" y="1982" width="755" height="170" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(0,229,255,0.12)"/>
-  <text x="320" y="2085" fill="#4A5A6A" font-size="28" font-family="Avenir Next, Arial, sans-serif">Tell Melori anything</text>
-  <circle cx="928" cy="2069" r="34" fill="#00E5FF"/>
-  <text x="917" y="2082" fill="#07111D" font-size="26" font-family="Avenir Next, Arial, sans-serif" font-weight="700">→</text>
+  <rect x="270" y="2018" width="755" height="170" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(0,229,255,0.12)"/>
+  <text x="320" y="2121" fill="#4A5A6A" font-size="28" font-family="Avenir Next, Arial, sans-serif">Tell Melori anything</text>
+  <circle cx="928" cy="2105" r="34" fill="#00E5FF"/>
+  <text x="917" y="2118" fill="#07111D" font-size="26" font-family="Avenir Next, Arial, sans-serif" font-weight="700">→</text>
 
   <text x="110" y="2480" fill="#FFFFFF" font-size="42" font-family="Avenir Next, Arial, sans-serif" font-weight="700">The shortest path to action should feel human.</text>
   <text x="110" y="2542" fill="#8899AA" font-size="32" font-family="Avenir Next, Arial, sans-serif">Intent first. Tools second. Context already in the room.</text>

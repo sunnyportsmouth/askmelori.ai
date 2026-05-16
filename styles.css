@@ -346,6 +346,27 @@ h3 {
   line-height: 1.65;
 }
 
+.security-list {
+  display: grid;
+  gap: 12px;
+  max-width: 680px;
+  margin: 22px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.security-list li {
+  border-left: 3px solid var(--teal);
+  padding-left: 16px;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.security-list strong {
+  color: var(--ink);
+}
+
 .bottom-cta {
   align-items: center;
 }
